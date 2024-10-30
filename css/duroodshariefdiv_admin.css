@@ -1,0 +1,149 @@
+.duroodshariefdiv_pro_features {
+	display:none;
+}
+
+.duroodshariefdiv_pro_features label{
+	color:#acacac;
+}
+
+.duroodshariefdiv_pro_features input{
+	color:#acacac;
+}
+
+.duroodshariefdiv_pro_features select{
+	color:#acacac;
+}
+
+.duroodshariefdiv_pro_features td{
+	color:#acacac;
+}
+
+.duroodshariefdiv_pro_features h2{
+	color:#acacac;
+}
+
+.duroodshariefdiv_radio_pleft {
+	margin-left:15px !important;
+}
+
+.duroodshariefdiv_radio_pright {
+	margin-right:5px !important;
+}
+
+.duroodshariefdiv_input_align_right {
+	text-align:right;
+}
+
+.duroodshariefdiv_input_small_width {
+	width:60px;
+}
+
+
+#duroodshariefdiv_collapsible_settings {
+	display:none;
+}
+
+#duroodshariefdiv_content {
+	height:250px;
+}
+
+.duroodshariefdiv_div_margins {
+	display:none;
+}
+
+.duroodshariefdiv_select_125p{
+	width:125px;
+}
+
+.duroodshariefdiv_select_100{
+	width:100%;
+	margin-top:5px;
+}
+
+.duroodshariefdiv_table_100{
+	width:100%;
+}
+
+.duroodshariefdiv_table_100_label{
+	vertical-align:middle;
+	height:60px;
+	width:240px;
+}
+
+.duroodshariefdiv_table_100_input{
+	vertical-align:middle;
+	height:60px;
+	width:200px;
+}
+
+.duroodshariefdiv_table_100_3td{
+	width:100%;
+}
+
+.duroodshariefdiv_table_100_3td td{
+	height:60px;
+}
+
+.duroodshariefdiv_table_settings td{
+	height:60px;
+}
+
+.duroodshariefdiv_label_margins {
+	display: block;
+	line-height:30px;
+}
+
+.duroodshariefdiv_back_image {
+	margin-top:-12px;
+	display:inline-block;
+}
+
+.duroodshariefdiv_td_label {
+	width:250px !important;
+}
+
+.duroodshariefdiv_td_thin {
+	width:250px !important;
+}
+
+.duroodshariefdiv_label_colorpicker {
+	display: inline-block;
+	margin-top:-12px;
+}
+
+#duroodshariefdiv_content_metabox h2 {
+	font-size: 17px;
+    color: #0073aa;
+    font-style: normal;
+    font-weight: 400;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 10px;
+    padding-top: 4px;
+	margin-bottom:15px;
+	margin-top:5px;
+}
+
+.duroodshariefdiv_admin_title{
+	border-bottom: 2px solid #e8e8e8;
+	margin-top:15px !important;
+}
+
+#duroodshariefdiv_settings_metabox h2 {
+	font-size: 17px;
+    color: #0073aa;
+    font-style: normal;
+    font-weight: 400;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 10px;
+    padding-top: 4px;
+	margin-bottom:15px;
+	margin-top:5px;
+}
+
+.duroodshariefdiv_desc {
+	color:#BDBDBD;
+	font-style: italic;
+	font-size:9pt;
+}
